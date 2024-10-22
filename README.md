@@ -2,6 +2,9 @@
 This project focuses on analyzing the customer reviews from google playstore and classifying them as positive, negative and neutral using sentiment analysis and models like Support Vector Machine(SVM) and Multimodel Naive Bayes.
 
 ### Methodology
+## Datasets:
+https://www.kaggle.com/code/khushipitroda/ola-vs-uber/notebook
+
 ## Pre-Processing:
 The reviews of ola and uber were retrieved and cleaned sepaartely. The pre-processing performed on them included:
 1. Dropping unnecessary coloumns
